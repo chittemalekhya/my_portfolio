@@ -8,6 +8,6 @@
 | SKILLS | PYTHON |
 | LANGUAGES | ENGLISH |
 
-#PROJECT
+PROJECT
 
 p1-https://github.com/chittemalekhya/attendance_automation
