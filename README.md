@@ -7,3 +7,6 @@
 | DEGREE | MCA |
 | SKILLS | PYTHON |
 | LANGUAGES | ENGLISH |
+
+#project
+p1-https://github.com/chittemalekhya/attendance_automation
