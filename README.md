@@ -8,6 +8,6 @@
 | SKILLS | PYTHON |
 | LANGUAGES | ENGLISH |
 
-PROJECT
+# PROJECT
+[VIEW PROJECT](https://github.com/chittemalekhya/attendance_automation/blob/main/automation.py)
 
-p1-https://github.com/chittemalekhya/attendance_automation/blob/main/automation.py
