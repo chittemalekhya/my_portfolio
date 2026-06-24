@@ -9,5 +9,5 @@
 | LANGUAGES | ENGLISH |
 
 # PROJECT
-[VIEW PROJECT](https://github.com/chittemalekhya/attendance_automation/blob/main/automation.py)
+[VIEW AUTOMATION PROJECT](https://github.com/chittemalekhya/attendance_automation/blob/main/automation.py)
 
